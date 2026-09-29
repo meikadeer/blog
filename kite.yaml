@@ -1,0 +1,12 @@
+site:
+  title: 小王日记
+  author: 小王
+  baseURL: http://localhost:1717
+  language: zh
+
+content:
+  store: file
+  dir: content
+
+build:
+  output: public
