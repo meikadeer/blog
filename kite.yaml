@@ -10,3 +10,11 @@ content:
 
 build:
   output: public
+plugins:
+  enabled:
+    - analytics
+  settings:
+    analytics:
+      provider: baidu
+      baidu_id: 5a507d4caafb00b264786071cd47168a
+      count_previews: false
