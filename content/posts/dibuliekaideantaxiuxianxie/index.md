@@ -1,0 +1,35 @@
+---
+title: 底部裂开的安踏休闲鞋
+slug: dibuliekaideantaxiuxianxie
+status: published
+created_at: 2009-09-18T00:00:00Z
+published_at: 2009-09-18T00:00:00Z
+description: 觉得没有底很没有底
+categories: [随笔]
+id: 01M3Q8B4JVE7BEFCZXENA7FQPZ
+updated_at: 2009-09-18T00:00:00Z
+---
+
+还记得那天 我们一起
+
+骑脚踏车在学校里逛么
+
+风一直狂妄地吹
+
+我的头发都乱了
+
+也不知道要说什么
+
+很远的路都只是沉默
+
+校内超市你抓着我的手腕
+
+我就不知所措了
+
+觉得没有底很没有底
+
+开始想很多的事情
+
+骑车了抱住我
+
+踏踏实实

@@ -1,0 +1,31 @@
+---
+title: 电视机企图在夜晚制造安全感
+slug: dianshijianquangan
+status: published
+created_at: 2009-06-04T00:00:00Z
+published_at: 2009-06-04T00:00:00Z
+description: 狗活了我就得倒下
+categories: [随笔]
+id: 01M3Q8B4JVE7BEFCZXEJGXXH1P
+updated_at: 2009-06-04T00:00:00Z
+---
+
+路上有一条死去的狗
+
+胸口早已终止跳动
+
+肉体和内脏开始腐烂
+
+要不是极富母性情结
+
+怎么会一直唱狗狗狗
+
+再这样狗就被你叫活了
+
+可它为什么不站起来
+
+你便说 想吓死我啊
+
+狗活了我就得倒下
+
+哈哈哈哈哈哈哈哈

@@ -1,0 +1,39 @@
+---
+title: 忧伤
+slug: youshang
+status: published
+created_at: 2009-09-20T00:00:00Z
+published_at: 2009-09-20T00:00:00Z
+description: 孤身一人在运动场
+categories: [随笔]
+id: 01M3Q8B4JVE7BEFCZXPDECM4PQ
+updated_at: 2009-09-20T00:00:00Z
+---
+
+篮球 玩了很长
+
+一直跳跃到夜幕下降
+
+强忍着辘辘饥肠
+
+孤身一人在运动场
+
+漫无目的地游荡
+
+耳边音乐持续播放
+
+一边仔细回想
+
+你经过球场时的模样
+
+却都被遗忘
+
+这应该是月亮才有的悲伤
+
+隐蔽在夜空之上
+
+微茫的光
+
+我惆怅也彷徨
+
+归来思量写下忧伤
