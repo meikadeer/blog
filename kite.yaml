@@ -12,6 +12,8 @@ theme:
   name: default
   settings:
     favicon: /favicon.png
+    nav:
+      - {}
 
 build:
   output: public
