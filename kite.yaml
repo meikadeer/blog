@@ -13,8 +13,16 @@ build:
 plugins:
   enabled:
     - analytics
+    - comments
   settings:
     analytics:
       provider: baidu
       baidu_id: 5a507d4caafb00b264786071cd47168a
       count_previews: false
+    comments:
+      provider: giscus
+      repo: meikadeer/blog
+      repo_id: R_kgDOUzfnCQ
+      category: Announcements
+      category_id: DIC_kwDOUzfnCc4DGrVC
+      mapping: id
