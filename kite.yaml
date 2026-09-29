@@ -8,6 +8,11 @@ content:
   store: file
   dir: content
 
+theme:
+  name: default
+  settings:
+    favicon: /favicon.png
+
 build:
   output: public
 plugins:
