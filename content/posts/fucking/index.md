@@ -1,14 +1,12 @@
 ---
+id: 01M3Q8B4JVE7BEFCZXF9W3CMZ8
 title: fucking
 slug: fucking
 status: published
 created_at: 2009-10-28T00:00:00Z
 published_at: 2009-10-28T00:00:00Z
-description: 也不知道自己怎么了
-categories: [随笔]
-id: 01M3Q8B4JVE7BEFCZXF9W3CMZ8
-updated_at: 2009-10-28T00:00:00Z
 ---
+
 
 也不知道自己怎么了
 
