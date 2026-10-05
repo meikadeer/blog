@@ -21,6 +21,7 @@ plugins:
   enabled:
     - analytics
     - comments
+    - search
   settings:
     analytics:
       provider: baidu

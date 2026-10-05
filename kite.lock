@@ -5,3 +5,15 @@ lockfileVersion: 1
 kite:
   version: 0.1.9
   checksums: sha256:7cc2ed2d4192f7e5f14af2074792796fc8b044ead03611bb1cce62e451477685
+plugins:
+  search:
+    version: 0.1.0
+    source: https://cdn.jsdelivr.net/gh/kite-plus/apps@main/index.json
+    resolved: https://cdn.jsdelivr.net/gh/kite-plus/apps@plugin-search-0.1.0/search-0.1.0.zip
+    checksum: sha256:20dee262d440cc4ebe5053d27ab46a3c11f346ebc9c95771b54285ff5fdfc59a
+    tree: sha256:ddfe916a361c81860623fe4cad436ac931329c631623294d630da4724e6a61b2
+    granted:
+      inject: 2
+      loads: []
+      hooks:
+        - build_complete
