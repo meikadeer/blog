@@ -12,8 +12,6 @@ theme:
   name: default
   settings:
     favicon: /favicon.png
-    nav:
-      - {}
     accent: '#a3473b'
 
 build:
