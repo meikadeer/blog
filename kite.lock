@@ -5,6 +5,13 @@ lockfileVersion: 1
 kite:
   version: 0.1.9
   checksums: sha256:7cc2ed2d4192f7e5f14af2074792796fc8b044ead03611bb1cce62e451477685
+themes:
+  almanac:
+    version: 0.1.2
+    source: https://cdn.jsdelivr.net/gh/kite-plus/apps@main/index.json
+    resolved: https://cdn.jsdelivr.net/gh/kite-plus/apps@theme-almanac-0.1.2/almanac-0.1.2.zip
+    checksum: sha256:d741e8ee000fc126687b36b73255e3d04ea7940baf3472de4d17f73db63cf142
+    tree: sha256:dc3f8b542ad72b6fcf4293107e5cb51a8bfe2c425f7b866a9637d6edfa34fa1f
 plugins:
   search:
     version: 0.1.0
