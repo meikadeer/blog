@@ -1,0 +1,7 @@
+# Written by Kite: the Kite release this site builds with, which kitew
+# runs, and where each theme and plugin installed from an index came from.
+# Their files are in themes/ and plugins/.
+lockfileVersion: 1
+kite:
+  version: 0.1.9
+  checksums: sha256:7cc2ed2d4192f7e5f14af2074792796fc8b044ead03611bb1cce62e451477685
