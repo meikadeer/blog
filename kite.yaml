@@ -35,7 +35,3 @@ plugins:
       category: Announcements
       category_id: DIC_kwDOUzfnCc4DGrVC
       mapping: id
-menus:
-  main:
-    - name: 关于
-      url: /about
