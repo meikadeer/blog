@@ -18,7 +18,7 @@ theme:
   settings:
     favicon: /favicon.png
     avatar: /uploads/豆包.jpg
-    hero_text: 从乱码中寻回秩序·在庸常里打捞不同
+    hero_text: 从乱麻中寻回秩序·在庸常里打捞不同
     location: 杭州
     position: 数据开发
     show_banner: false
