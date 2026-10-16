@@ -9,10 +9,17 @@ content:
   dir: content
 
 theme:
-  name: default
+  name: almanac
   settings:
     favicon: /favicon.png
-    accent: '#a3473b'
+    avatar: /uploads/豆包.jpg
+    hero_text: 从乱码中寻回秩序·在庸常里打捞不同
+    location: 杭州
+    position: 数据开发
+    show_banner: false
+    show_issue: false
+    show_github: false
+    show_credit: false
 
 build:
   output: public
