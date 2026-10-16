@@ -39,9 +39,5 @@ plugins:
       baidu_id: 5a507d4caafb00b264786071cd47168a
       count_previews: false
     comments:
-      provider: giscus
-      repo: meikadeer/blog
-      repo_id: R_kgDOUzfnCQ
-      category: Announcements
-      category_id: DIC_kwDOUzfnCc4DGrVC
-      mapping: id
+      provider: kite-plus
+      site: cc8ce799-bb05-42e6-a7e2-3c8d82664b0b
