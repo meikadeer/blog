@@ -4,6 +4,10 @@ site:
   baseURL: https://wangquan.cc/
   language: zh
   description: 从乱码中寻回秩序·在庸常里打捞不同
+  keywords:
+    - 王泉
+    - 小王
+    - 日记
 
 content:
   store: file
