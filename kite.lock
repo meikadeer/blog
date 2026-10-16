@@ -19,6 +19,20 @@ themes:
     checksum: sha256:e7ac176cb036d1ffd135304d31a18722fafd53e10c3d5bbb520d7807b89d3639
     tree: sha256:7ff133c7b381f021de1ef6cc09c7d222ce1ceba2a3f82516694191485e58ef74
 plugins:
+  math:
+    version: 0.1.0
+    source: https://cdn.jsdelivr.net/gh/kite-plus/apps@main/index.json
+    resolved: https://cdn.jsdelivr.net/gh/kite-plus/apps@plugin-math-0.1.0/math-0.1.0.zip
+    checksum: sha256:e35c847618810bad814ca281f871fde1d5ae3e7d429d11d48a2837778cb8275a
+    tree: sha256:7c442302c70eb6ae1af2994b9e99ac82b5a07bff914c73ca16758c7d7a9a9a82
+    granted:
+      inject: 1
+      loads:
+        - cdn.jsdelivr.net
+        - registry.npmmirror.com
+        - unpkg.com
+      hooks:
+        - transform_markdown
   search:
     version: 0.1.0
     source: https://cdn.jsdelivr.net/gh/kite-plus/apps@main/index.json

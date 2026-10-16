@@ -1,0 +1,44 @@
+id: math
+name: Math and Diagrams
+version: 0.1.0
+apiVersion: kite/plugin/v1
+requires: ">=0.1.0 <2.0.0"
+description: Typesets TeX math with KaTeX and draws mermaid code blocks as diagrams.
+author:
+  name: Kite
+  url: https://github.com/kite-plus
+license: Apache-2.0
+homepage: https://github.com/kite-plus/plugin-math
+hosts: [cdn.jsdelivr.net, unpkg.com, registry.npmmirror.com]
+
+# plugin.wasm keeps markdown from reading math as markdown before a page is
+# rendered; math.js typesets it in the reader's browser, loading KaTeX and
+# Mermaid only on the pages that need them.
+hooks: [transform_markdown]
+
+inject:
+  - at: body
+    html: |
+      <script>window.KiteMath = {settings: {{ .Settings }}};</script>
+      <script src="{{ asset "math.js" }}" defer></script>
+
+settings:
+  - key: math
+    type: boolean
+    label: Math
+    help: Typeset TeX between $ and $, $$ and $$, \( and \), \[ and \], and in math code blocks.
+    default: true
+  - key: diagrams
+    type: boolean
+    label: Diagrams
+    help: Draw mermaid code blocks as diagrams.
+    default: true
+  - key: cdn
+    type: select
+    label: Load scripts from
+    help: Where KaTeX and Mermaid load from. npmmirror is quicker from mainland China.
+    default: jsdelivr
+    options:
+      - {value: jsdelivr, label: jsDelivr}
+      - {value: unpkg, label: unpkg}
+      - {value: npmmirror, label: npmmirror}

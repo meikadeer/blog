@@ -1,0 +1,17 @@
+plugin:
+  title: 公式与图表
+  description: 用 KaTeX 排版 TeX 公式，把 mermaid 代码块画成图表。
+  settings:
+    math:
+      label: 公式
+      help: 排版 $…$、$$…$$、\(…\)、\[…\] 之间以及 math 代码块中的 TeX 公式。
+    diagrams:
+      label: 图表
+      help: 把 mermaid 代码块画成图表。
+    cdn:
+      label: 脚本来源
+      help: KaTeX 和 Mermaid 从哪里加载。在中国大陆访问 npmmirror 更快。
+      options:
+        jsdelivr: jsDelivr
+        unpkg: unpkg
+        npmmirror: npmmirror
