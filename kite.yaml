@@ -3,6 +3,7 @@ site:
   author: 小王
   baseURL: https://wangquan.cc/
   language: zh
+  description: 从乱码中寻回秩序·在庸常里打捞不同
 
 content:
   store: file
