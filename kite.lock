@@ -3,8 +3,8 @@
 # Their files are in themes/ and plugins/.
 lockfileVersion: 1
 kite:
-  version: 0.1.10
-  checksums: sha256:3e8a7cc2438773765b4bc8155c795f6b5ec616f33981490395889213a97f9726
+  version: 0.1.12
+  checksums: sha256:1e4eeb06bcc9e50828e0cec83455c5171bd6dfe897a92a79e3b47f980457618d
 themes:
   almanac:
     version: 0.1.2
