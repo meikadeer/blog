@@ -1,7 +1,7 @@
 ---
 id: 01M5P56NBYJ67WZW13TR7QVNDV
 title: "开荒"
-slug: 部署到
+slug: 开荒
 status: published
 created_at: 2026-10-24T05:12:43Z
 categories:
