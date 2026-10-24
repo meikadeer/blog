@@ -2,10 +2,11 @@
 id: 01M5P56NBYJ67WZW13TR7QVNDV
 title: "开荒"
 slug: 部署到
-status: draft
+status: published
 created_at: 2026-10-24T05:12:43Z
 categories:
   - 未分类
+published_at: 2026-10-24T05:33:00Z
 ---
 
 博客部署到了 cloudflare 感觉就是 真·赛博活佛
